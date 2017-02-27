@@ -11,3 +11,8 @@ from my_project import my_core
 def myFunction():
     print 'test'
 
+
+
+def myNewFeatureFunction():
+    print 'test'
+
